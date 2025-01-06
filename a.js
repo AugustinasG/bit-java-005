@@ -1,4 +1,5 @@
 console.log('Labas, skriptai');
+console.log('bit js 05');
 
 
 const nr1 = document.querySelector('#nr1');
